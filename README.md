@@ -71,5 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 This is your local change (what you wrote on your computer)
 This is the remote change (what is already on GitHub)
-
-# E-commerce-frontend  f2c834d4bd21a3bf46c8d9a5d727a0dec360200f
