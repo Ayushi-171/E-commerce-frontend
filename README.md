@@ -40,12 +40,13 @@ blocks.
 
 ## 📁 Project Structure
 
+```
 src/
 ├── category.jsx        # Category filter component
 ├── App.js              # Main app — product data, state, layout
 ├── App.css             # Global styles
 └── index.js            # Entry point
-
+```
 ---
 
 ## 💡 What This Demonstrates
