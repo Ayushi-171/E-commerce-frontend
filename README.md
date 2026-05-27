@@ -1,81 +1,41 @@
-# 🛍️ E-Commerce Frontend
+# 🛒 E-Commerce Product Listing UI
 
-> A modern, responsive e-commerce platform. Shop seamlessly with an intuitive interface and smooth user experience.
+> A responsive product listing page with category-based filtering 
+> and a clean grid layout — built with React.js.
 
 ## 🌐 Live Demo
-Experience it yourself! **[Visit the live store here](https://ayushi-171.github.io/E-commerce-frontend/)**
+
+**[View the live project →](https://ayushi-171.github.io/E-commerce-frontend/)**
 
 ---
 
 ## 📖 About
 
-This is a fully functional e-commerce frontend application built with HTML, CSS, and JavaScript. It provides a complete shopping experience with product browsing, cart management, and a sleek user interface.
+Built to simulate a real-world e-commerce browsing experience. 
+Users can browse products displayed in a responsive card grid and 
+filter them by category using a sidebar. All product data is 
+rendered dynamically through React components — no hardcoded HTML 
+blocks.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5** — Semantic structure and markup
-- **CSS3** — Responsive styling and animations
-- **JavaScript** — Interactive features and cart functionality
+- **React.js** — Component-based UI architecture
+- **JavaScript (ES6+)** — Filtering logic and state management
+- **CSS3** — Grid layout, Flexbox, responsive design
+- **HTML5** — Semantic structure
 
 ---
 
 ## ✨ Features
 
-- 🏪 Product catalog with detailed listings
-- 🛒 Fully functional shopping cart
-- 💳 Checkout process
-- 📱 Fully responsive design
-- ⚡ Fast and smooth interactions
-- 🎨 Modern UI/UX design
+- Category-based sidebar filtering — updates product list dynamically
+- Responsive CSS Grid layout — works across mobile, tablet, desktop
+- Reusable React card components for each product
+- Mobile-first design approach
+- Clean, minimal UI focused on usability
 
 ---
 
 ## 📁 Project Structure
-
-The project includes HTML pages for product listings, shopping cart, checkout, and product details, along with stylesheets and JavaScript files for functionality.
-
----
-
-## 🎯 Key Functionalities
-
-- Browse products by category
-- Add/remove items from cart
-- View product details and pricing
-- Responsive navigation and layout
-- Smooth checkout experience
-
----
-
-## 💡 What I Learned
-
-This project demonstrates:
-- DOM manipulation and event handling
-- State management for shopping cart
-- Responsive web design principles
-- User interaction design
-- Front-end best practices
-
----
-
-## 🤝 Contributing
-
-Found an issue? Have ideas for improvement? Contributions welcome!
-- Report bugs via issues
-- Submit pull requests with enhancements
-- Share feature suggestions
-
----
-
-## 📝 License
-
-Open source and free to use, modify, and share.
-
----
-
-## 👤 Created By
-
-**Ayushi-171**
-
-Happy shopping! 🎉
